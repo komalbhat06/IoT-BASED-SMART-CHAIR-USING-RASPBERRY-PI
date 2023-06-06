@@ -25,3 +25,5 @@ straight or not. The humidity and temperature sensor module
 inside the cushion of the seat will detect the temperature and 
 pressure of the user. The goal of this project is to maintain proper 
 posture for improved health and longevity.
+![image](https://github.com/komalbhat06/IoT-BASED-SMART-CHAIR-USING-RASPBERRY-PI/assets/68904706/05458a8d-0cd3-4574-9bef-be32901d2a6c)
+![image](https://github.com/komalbhat06/IoT-BASED-SMART-CHAIR-USING-RASPBERRY-PI/assets/68904706/e5dc0f6b-b0f6-4cd8-a400-c0a5e3192e20)
